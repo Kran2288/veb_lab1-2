@@ -1,0 +1,33 @@
+html {
+    margin: 0;
+}
+
+* {
+    margin: 0;
+}
+
+.first-link {
+    margin-left: 47%;
+    margin-top: 20px;
+    width: 120px;
+    height: 20px;
+    border: 2px solid red;
+}
+
+.first-link a {
+    text-decoration: none;
+    color: black;
+}
+
+.second-link {
+    margin-left: 47%;
+    margin-top: 20px;
+    width: 120px;
+    height: 20px;
+    border: 2px solid red;
+}
+
+.second-link a {
+    text-decoration: none;
+    color: black;
+}
